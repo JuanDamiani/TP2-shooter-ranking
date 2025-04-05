@@ -35,7 +35,7 @@ def procesar_ronda(ronda, acumulador, mvps):
     mvp = max(puntajes_ronda, key=puntajes_ronda.get)
     mvps[mvp] = mvps.get(mvp, 0) + 1
 
-# muestra la tabla del ranking, con detalles medios desprolijos pero legibles
+# muestra la tabla del ranking
 def imprimir_ranking(acumulador, mvps, ronda=None):
     if ronda is not None:
         print(f"\nRanking ronda {ronda+1}:")
