@@ -6,7 +6,7 @@ El trabajo corresponde al **Ejercicio 10** del TP2 de Seminario de Lenguajes - P
 
 ## Estructura del proyecto
 
-TP2/
+TP2-shooter-ranking/
 │
 ├── notebooks/              # Notebooks con el análisis
 │   └── Ej10.ipynb          # Simulación y ranking ronda por ronda
@@ -22,7 +22,7 @@ TP2/
 ## Cómo correr el proyecto
 
 1. Clonar el repositorio (si está en GitHub):
-   git clone https://github.com/tu-usuario/TP2-shooter-ranking.git
+   git clone https://github.com//JuanDamiani/TP2-shooter-ranking.git
    cd TP2-shooter-ranking
 
 2. Crear entorno virtual (si no lo hiciste ya):
